@@ -8,5 +8,5 @@ Meu nome é Yasmim Vitor
 
 Você pode entrar em contato comigo 📮
 
-- Email: yasmim.vitor2460@gmail.com
-- Github: @yasmim-vitor
+Email: yasmim.vitor2460@gmail.com
+Github: @yasmim-vitor
